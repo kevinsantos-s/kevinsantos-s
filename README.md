@@ -20,7 +20,6 @@
 <div align="center">
   <a href="https://github.com/kevinsantos-s">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&langs_count=8&theme=radical" />
   </a>
 </div>
 
