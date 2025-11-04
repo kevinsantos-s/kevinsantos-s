@@ -74,7 +74,7 @@
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
-    <a href ="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
+  <a href ="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
     <img src="whatsapp.png" width="40" height="35" />
   </a>
   <a href="mailto:kevinssilva1502@gmail.com" target="_blank">
