@@ -71,15 +71,16 @@
 <br>
 <p align="left">
   📫 <strong>Entre em contato comigo:</strong><br><br>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
-    <img alt="WhatsApp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff" />
-  </a>
-  <a href="mailto:kevinssilva1502@gmail.com" target="_blank">
-    <img align="center" alt="Gmail" height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff" />
-  </a>
+<a href="https://www.linkedin.com/in/kevin-silva1502/" target="_blank" rel="noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" />
+</a>
+<a href="mailto:kevinssilva1502@gmail.com" target="_blank" rel="noreferrer">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
+</a>
+
 </p>
 
 ---
