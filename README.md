@@ -8,9 +8,9 @@
 <!-- Presentation -->
 
 <p>
-  Olá 👋, Eu sou <strong>Kevin Santos</strong>! Um desenvolvedor Front-End do Brasil.
+  Olá 👋, Eu sou <strong>Kevin Santos</strong>! Um desenvolvedor Front-End.
   <br><br>
-  🎓 Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.
+  🎓 Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong>(Conclusão prevista para 2027).
   <br>
   🚀 Sou apaixonado por desenvolvimento web e busco sempre aprender novas tecnologias e criar interfaces que proporcionem a melhor experiência possível para o usuário.
 </p>
