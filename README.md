@@ -68,7 +68,7 @@
 ---
 
 ## 🤝 Contato
-<br><br>
+<br>
 <p align="left">
   📫 <strong>Entre em contato comigo:</strong><br><br>
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
