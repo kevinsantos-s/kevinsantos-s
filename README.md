@@ -17,21 +17,23 @@
 
 <!-- GithubStats -->
 
-![KevinSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsantos-s\&show_icons=true\&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s\&layout=donut\&show_icons=true\&theme=gotham)](https://github.com/kevinsantos-s/github-readme-stats)
-
+<div style="display: flex; justify-content: space-evenly;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&langs_count=8&theme=radical"/>
+</div>
 ---
 
-## 🔥 Skills
+## 🔥 Habilidades
 
 <!-- Skills: Programming Languages -->
 
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Programming Languages & Styles</h3>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   </div>
 
   <!-- Skills: Tools & Frameworks -->
@@ -39,6 +41,7 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   </div>
@@ -60,23 +63,22 @@
   Sempre buscando evoluir, atualmente estou me aprofundando em:
 </p>
 
-<img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
 ---
 
-## 📬 Contato
+## 🤝 Contato
 
 <p align="left">
   📫 <strong>Entre em contato comigo:</strong><br><br>
   <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
-    <img align="center" alt="Gmail" height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff" />
+    <a href ="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
+    <img src="whatsapp.png" width="40" height="35" />
   </a>
-  <a href="https://discordapp.com/users/seuID" target="_blank">
-    <img align="center" alt="Discord" height="30" width="100" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff" />
+  <a href="mailto:kevinssilva1502@gmail.com" target="_blank">
+    <img align="center" alt="Gmail" height="30" width="90" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff" />
   </a>
 </p>
 
