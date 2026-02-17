@@ -17,7 +17,7 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 
 ---
 
-## 🛠️ Ferramentas
+## 🛠️ Stack
 
 ### 💻 Backend
 <p>
