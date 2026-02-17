@@ -1,71 +1,91 @@
-<!-- HEADER -->
+<!-- Título -->
 
-<h1 align="center">👋 Olá, eu sou o Kevin Santos</h1>
-<h3 align="center">Desenvolvedor Backend Node.js</h3>
-
----
-
-## 🚀 Sobre mim
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Conclusão prevista: 2027)  
-💻 Focado em **Backend com Node.js, TypeScript e Prisma**  
-🏗️ Estudando arquitetura, organização de código e boas práticas (Repository Pattern, Clean Architecture)  
-🔗 Atualmente desenvolvendo integrações entre sistemas (Bling → Core → B2B)
-
-Meu foco hoje é me tornar um desenvolvedor backend sólido, escrevendo código limpo, escalável e bem estruturado.
+<div align="center">
+  <h1>🚀 Kevin Santos</h1>
+  <h3>Backend Developer | Node.js • TypeScript • APIs • Integrações</h3>
+</div>
 
 ---
 
-## 🧠 Stack Principal
+## 👋 Sobre mim
+
+Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Sistemas (Conclusão prevista para 2027)**.
+
+💻 Desenvolvedor com foco em **Backend**, construindo APIs, integrações e aplicações escaláveis utilizando **Node.js e TypeScript**.  
+🚀 Experiência com integrações REST, autenticação OAuth, banco de dados relacionais e boas práticas de arquitetura.  
+📈 Buscando oportunidade para crescer como desenvolvedor backend e atuar em projetos de impacto.
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Backend
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
 </p>
 
 ### 🗄️ Banco de Dados
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </p>
 
-### 🛠️ Ferramentas
+### 🎨 Frontend
 <p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </p>
 
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura Backend
-- Design Patterns
-- Clean Code
-- Estruturação de projetos Node.js em larga escala
-- Performance e organização de APIs
-
----
-
-## 📫 Contato
-
+### 🧰 Ferramentas
 <p>
-<a href="https://www.linkedin.com/in/kevin-silva1502/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
-</a>
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</p>
 
-<a href="mailto:kevinssilva1502@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
+---
+
+## 📊 GitHub Status
+
+<div align="center">
+  <a href="https://github.com/kevinsantos-s">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</div>
+
+---
+
+## 🎯 Atualmente estudando
+
+- Arquitetura backend escalável  
+- Boas práticas com TypeScript  
+- Padrões de projeto  
+- Integração entre sistemas (APIs REST, OAuth2)  
+
+---
+
+## 🤝 Contato
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kevin-silva1502/" target="_blank" rel="noreferrer">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511961828095&text" target="_blank" rel="noreferrer">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" />
+</a>
+<a href="mailto:kevinssilva1502@gmail.com" target="_blank" rel="noreferrer">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
 </p>
 
 ---
 
-<p align="center">
-  ⚡ Construindo APIs limpas hoje para sistemas escaláveis amanhã.
+<!-- GIF -->
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
