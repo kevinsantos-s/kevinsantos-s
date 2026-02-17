@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>🚀 Kevin Santos</h1>
-  <h3>Backend Developer | Node.js • TypeScript • APIs • Integrações</h3>
+  <h3>Backend Developer | Node.js • TypeScript • APIs </h3>
 </div>
 
 ---
@@ -84,7 +84,7 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 
 ---
 
-<!-- GIF -->
+<!-- GIF (mantido como você pediu) -->
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
