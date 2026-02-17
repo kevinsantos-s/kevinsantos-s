@@ -36,7 +36,11 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 ### 🎨 Frontend
 <p>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="StyledComponents" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 </p>
+
 
 ### 🧰 Ferramentas
 <p>
@@ -51,20 +55,16 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 ## 📊 GitHub Status
 
 <div align="center">
-  <a href="https://github.com/kevinsantos-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&langs_count=8&theme=radical" />
-  </a>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&count_private=true" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&theme=radical" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=kevinsantos-s&theme=radical" />
+
 </div>
-
----
-
-## 🎯 Atualmente estudando
-
-- Arquitetura backend escalável  
-- Boas práticas com TypeScript  
-- Padrões de projeto  
-- Integração entre sistemas (APIs REST, OAuth2)  
 
 ---
 
