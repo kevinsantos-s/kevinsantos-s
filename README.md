@@ -56,9 +56,6 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kevinsantos-s&show_icons=true&theme=radical&count_private=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantos-s&layout=compact&theme=radical" />
 
   <br/>
 
