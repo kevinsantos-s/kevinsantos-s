@@ -13,7 +13,6 @@ Olá! Eu sou o **Kevin Santos**, estudante de **Análise e Desenvolvimento de Si
 
 💻 Desenvolvedor com foco em **Backend**, construindo APIs, integrações e aplicações escaláveis utilizando **Node.js e TypeScript**.  
 🚀 Experiência em integrações ERP ↔ E-commerce em ambiente de produção, autenticação OAuth (Bling API), modelagem relacional com Prisma, versionamento Gitflow e sustentação de sistemas.
-
 📈 Buscando oportunidade para crescer como desenvolvedor backend e atuar em projetos de impacto.
 
 
